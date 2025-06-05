@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+motor==3.3.2  # Versión compatible con PyMongo 4+
+pydantic==1.10.7
+pymongo==4.5.0  # Versión explícitamente compatible
+python-jose==3.3.0
+passlib==1.7.4
